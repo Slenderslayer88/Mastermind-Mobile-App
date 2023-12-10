@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="color_select_btn" parent="Theme.Mastermind">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_margin">13dp</item>
+    </style>
+    <style name="peg_btn" parent="Theme.Mastermind">
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_marginRight">13dp</item>
+        <item name="android:layout_marginLeft">13dp</item>
+    </style>
+</resources>
